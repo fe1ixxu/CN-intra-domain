@@ -60,7 +60,3 @@ The routes to and from each client at the end of the simulation will print, alon
 The bash script `test_dv_ls.sh` will run all the supplied networks with your router implementations. You may need to run `chmod 744 test_dv_ls.sh` first to make the script executable.  You can also pass "LS" or "DV" as an argument to `test_dv_ls.sh` (e.g. `test_dv_ls.sh DV`) to test only one implementation.
 
 As always, start early and feel free to ask questions on Piazza and in office hours.
-
-## Acknowledgements
-
-This programming assignment is based on Princeton University's Assignment 2 from COS 461: Computer Networks.
